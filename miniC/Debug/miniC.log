@@ -1,0 +1,103 @@
+﻿  miniC.cpp
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(460): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(463): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(479): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(484): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(508): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(515): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(518): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(521): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(524): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(527): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(530): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(537): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(597): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(604): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(607): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(610): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(613): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(616): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(619): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(627): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(655): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(662): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(665): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(668): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(671): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(674): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(677): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(684): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(721): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(725): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(727): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(729): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(730): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(732): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(745): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(749): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(751): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(753): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(754): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(756): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(767): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(772): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(639): note: 参见“_itoa”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(797): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(639): note: 参见“_itoa”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(798): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(811): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(829): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(829): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(839): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(840): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(841): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\shning\desktop\minic\cmini\minic\minic\minic.cpp(842): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+  miniC.vcxproj -> C:\Users\shning\Desktop\miniC\Cmini\miniC\Debug\miniC.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "miniC", "miniC\miniC.vcxproj", "{463C7584-F3FB-4718-B1B8-103A42415509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463C7584-F3FB-4718-B1B8-103A42415509}.Debug|x64.ActiveCfg = Debug|x64
+		{463C7584-F3FB-4718-B1B8-103A42415509}.Debug|x64.Build.0 = Debug|x64
+		{463C7584-F3FB-4718-B1B8-103A42415509}.Debug|x86.ActiveCfg = Debug|Win32
+		{463C7584-F3FB-4718-B1B8-103A42415509}.Debug|x86.Build.0 = Debug|Win32
+		{463C7584-F3FB-4718-B1B8-103A42415509}.Release|x64.ActiveCfg = Release|x64
+		{463C7584-F3FB-4718-B1B8-103A42415509}.Release|x64.Build.0 = Release|x64
+		{463C7584-F3FB-4718-B1B8-103A42415509}.Release|x86.ActiveCfg = Release|Win32
+		{463C7584-F3FB-4718-B1B8-103A42415509}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {281CC93F-78E0-4D50-86E1-A26A66C1324C}
+	EndGlobalSection
+EndGlobal
